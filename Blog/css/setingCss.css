@@ -1,0 +1,166 @@
+.tete{
+	background-color:black;
+	position:fixed;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:100%;
+	margin-top:10px;
+	padding:5px 5px 5px 5px;
+	width:100%;
+	z-index:2;
+	border-radius:5px;
+	opacity:0.9;
+}
+td{
+	border-radius:10px;
+}
+.barre_theme{
+	text-align: center;
+	width:300px;
+}
+#desc:hover{
+	background-image:url(../images/local.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100%;
+}
+#histo:hover{
+	background-image:url(../images/histo.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100%;
+}
+#prod:hover{
+	color:black;
+	background-image:url(../images/front.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100%;
+}
+#prod:hover p{
+	position: center;
+	color:white;
+}
+a{
+	text-decoration: none;
+}
+#action:hover{
+	background-image:url(../images/pers.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100%;
+}
+#sites:hover{
+	background-image:url(../images/barre.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100%;
+}
+.mot_theme{
+	padding-top: 10px;
+	text-align:center;
+	font-family:Aharoni;
+	color:rgb(100,100,100);
+	text-decoration: none;
+}
+.lien{
+	height: 50px;
+	size:100%;
+}
+.sony_logo{
+	background-image:url(../images/logo.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:100%;
+	width:200px;
+}
+.cont{
+	padding-bottom:25px;
+}
+.titre{
+	color:red;
+	font-size:50px;
+	text-align:center;
+}
+.contenu2{
+	border-radius:20px;
+	margin-left:50px;
+	padding-left:50px;
+	padding-bottom:50px;
+	background-color:rgb(20,20,20);
+}
+table{
+	position:center;
+	size:auto;
+}
+
+td{
+	height:50px;
+	width:50px;
+}
+
+body{
+	background-image:url(../images/fond.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:100%;
+}
+.vide{
+	height:100px;
+}
+.contenu{
+	margin-top:10px;
+	background-color:black;
+	opacity:0.8;
+	z-index:1;
+	border-radius:10px;
+}
+.logo_desc{
+	border-radius:10px;
+	background-image:url(../images/local.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:100%;
+	height:200px;
+}
+.logo_histo{
+	border-radius:10px;
+	background-image:url(../images/histo.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:100%;
+	height:200px;
+}
+.logo_prod{
+	border-radius:10px;
+	background-image:url(../images/prod.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:100%;
+	height:200px;
+}
+.logo_act{
+	border-radius:10px;
+	background-image:url(../images/pers.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:center;
+	background-size:100%;
+	height:200px;
+}
+h1{
+	margin-left: 50px;
+	font-family: Franklin Gothic Medium;
+	color:blue;
+}
+p{
+	padding-right: 100px;
+	padding-left: 50px;
+	font-family: Calibri;
+	color:white;
+}
